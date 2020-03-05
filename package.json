@@ -1,0 +1,19 @@
+{
+  "name": "work-wechat-bot-bridge-devtool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "lodash": "^4.17.15",
+    "moment-timezone": "^0.5.27"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
